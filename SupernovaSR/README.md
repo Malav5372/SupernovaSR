@@ -48,10 +48,11 @@ Testing code
 ----------
 
 * [main_test_SupernovaSR.py](main_test_SupernovaSR.py)
-* [model_zoo](model_zoo) (_Download the following models from [Google drive](https://drive.google.com/drive/folders/13kfr3qny7S2xwG9h7v95F5mkWs0OmU0D?usp=sharing) or [腾讯微云](https://share.weiyun.com/5qO32s3)_).
+* [model_zoo](model_zoo) (_Download the model from [Google drive](https://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
    * Proposed:
-     * SupernovaSR.pth     [[Google drive]](https://drive.google.com/drive/folders/13kfr3qny7S2xwG9h7v95F5mkWs0OmU0D?usp=sharing) [[腾讯微云]](https://share.weiyun.com/7GPI8p7x)🌱
-     * SupernovaSRNet.pth      [[Google drive]](https://drive.google.com/drive/folders/13kfr3qny7S2xwG9h7v95F5mkWs0OmU0D?usp=sharing)  [[腾讯微云]](https://share.weiyun.com/VOFW5Ela)🌱
+     * SupernovaSR.pth     [[Google drive]](https://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
+     * SupernovaSRNet.pth      [[Google drive]](hhttps://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
+       
    * Compared methods:
      * RRDB.pth  --->  [original link](https://github.com/xinntao/ESRGAN)
      * ESRGAN.pth --->   [original link](https://github.com/xinntao/ESRGAN)
