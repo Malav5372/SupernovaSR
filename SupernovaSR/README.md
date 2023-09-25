@@ -51,7 +51,7 @@ Testing code
 * [model_zoo](model_zoo) (_Download the model from [Google drive](https://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
    * Proposed:
      * SupernovaSR.pth     [[Google drive]](https://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
-     * SupernovaSRNet.pth      [[Google drive]](hhttps://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
+     * SupernovaSRNet.pth    [[Google drive]] (hhttps://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
        
    * Compared methods:
      * RRDB.pth  --->  [original link](https://github.com/xinntao/ESRGAN)
