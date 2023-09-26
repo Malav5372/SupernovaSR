@@ -1,4 +1,4 @@
-Supernova SR: Practical Degradation Model for Deep Blind Image Super-Resolution
+# Supernova SR: Practical Degradation Model for Deep Blind Image Super-Resolution
 
 DESCRIPTION:
 
