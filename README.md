@@ -1,4 +1,4 @@
-# SupernovaSR : [Designing a Practical Degradation Model for Deep Blind Image Super-Resolution]
+![image](https://github.com/Malav5372/SupernovaSR/assets/144440737/73ec9243-a129-442c-8a48-a7e785c8ab06)# SupernovaSR : [Designing a Practical Degradation Model for Deep Blind Image Super-Resolution]
 
 
 Training
@@ -33,7 +33,7 @@ _______
 
 [<img src="figs/SR1.png" width="390px"/>](https://imgsli.com/NDgzMjU) [<img src="figs/SR2.png" width="390px"/>](https://imgsli.com/MjA5Mjc4) 
 [<img src="figs/SR3.png" width="390px"/>](https://imgsli.com/MjA5NDIw) [<img src="figs/SR4.png" width="390px"/>](https://imgsli.com/MjA5NDM4)
-[<img src="figs/SR5.png" width="390px"/>]()
+[<img src="figs/SR5.png" width="750px"/>](https://imgsli.com/MjA5NDQ1)
 ___________
 
 * [Testing code](#testing-code)
