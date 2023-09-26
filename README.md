@@ -1,5 +1,5 @@
 # Supernova SR: Practical Degradation Model for Deep Blind Image Super-Resolution
-![Screenshot (40)](https://github.com/Malav5372/SupernovaSR/assets/144440737/4c5b6896-c473-49ef-9c1d-cee58ee8d17f)
+<img src="(https://github.com/Malav5372/SupernovaSR/assets/144440737/4c5b6896-c473-49ef-9c1d-cee58ee8d17f)" width="275px"> 
 
 
 ## DESCRIPTION:
