@@ -1,8 +1,5 @@
 # Supernova SR: Practical Degradation Model for Deep Blind Image Super-Resolution
 
-
-## DESCRIPTION:
-
 I bring to you SupernovaSR, a flagship-grade project conceived during my tenure as a Machine Learning Engineer at Wipro. This project was born out of a pressing challenge within the realm of Single Image Super-Resolution (SISR). Existing methods often grapple with inadequate performance when their assumed degradation models fail to account for the intricate complexities of real-world images.
 
 SupernovaSR addresses this challenge through the introduction of a pioneering approach—a comprehensive yet practical degradation model. This model encompasses a blend of randomly applied blur, downsampling, and noise degradations. Specifically, the blur is approximated through two convolutional layers employing isotropic and anisotropic Gaussian kernels. The downsampling is randomly chosen from nearest, bilinear, and bicubic interpolations. The noise component is synthesized using multiple techniques, including the addition of Gaussian noise with varying noise levels, the application of JPEG compression at various quality factors, and the generation of processed camera sensor noise through reverse-forward camera image signal processing (ISP) pipeline modeling and RAW image noise modeling.
