@@ -1,5 +1,3 @@
-![image](https://github.com/Malav5372/SupernovaSR/assets/144440737/73ec9243-a129-442c-8a48-a7e785c8ab06)# SupernovaSR : [Designing a Practical Degradation Model for Deep Blind Image Super-Resolution]
-
 
 Training
 ----------
