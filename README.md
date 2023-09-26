@@ -5,7 +5,7 @@ Training
 ----------
 1. Put your training high-quality images into `trainsets/trainH` or set `"dataroot_H": "trainsets/trainH"`
 2. Train SupernovaSRNet
-    1. Modify [train_SupernovaSR_x4_psnr.json]() e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
+    1. Modify [train_SupernovaSR_x4_psnr.json](https://github.com/Malav5372/SupernovaSR/blob/5b994b38f076a63caa72fbeab6f7648619675e88/train_SupernovaSR_x4_psnr.json) e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
     2. Training with `DataParallel`
     ```bash
     python main_train_psnr.py --opt options/train_SupernovaSR_x4_psnr.json
