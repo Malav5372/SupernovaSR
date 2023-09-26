@@ -5,7 +5,7 @@ Training
 ----------
 1. Put your training high-quality images into `trainsets/trainH` or set `"dataroot_H": "trainsets/trainH"`
 2. Train SupernovaSRNet
-    1. Modify [train_SupernovaSR_x4_psnr.json](https://github.com/cszn/KAIR/blob/master/options/train_SupernovaSR_x4_psnr.json) e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
+    1. Modify [train_SupernovaSR_x4_psnr.json]() e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
     2. Training with `DataParallel`
     ```bash
     python main_train_psnr.py --opt options/train_SupernovaSR_x4_psnr.json
@@ -16,7 +16,7 @@ Training
     ```
 3. Train SupernovaSR
     1. Put SupernovaSRNet model (e.g., '400000_G.pth') into `superresolution/SupernovaSR_x4_gan/models`
-    2. Modify [train_SupernovaSR_x4_gan.json](https://github.com/cszn/KAIR/blob/master/options/train_SupernovaSR_x4_gan.json) e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
+    2. Modify [train_SupernovaSR_x4_gan.json](https://github.com/Malav5372/SupernovaSR/blob/0eeebfa36f83119be26c545143aa1ad74f30e536/train_SupernovaSR_x4_gan.json) e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
     3. Training with `DataParallel`
     ```bash
     python main_train_gan.py --opt options/train_SupernovaSR_x4_gan.json
