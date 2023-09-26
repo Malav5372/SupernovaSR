@@ -64,14 +64,6 @@ Testing code
    * Proposed:
      * SupernovaSR.pth     [[Google drive]](https://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
      * SupernovaSRNet.pth      [[Google drive]](https://drive.google.com/drive/folders/1VIyKgsCtmEmf6_HI70le6G1gHRh5yKYo?usp=drive_link)
-   * Compared methods:
-     * RRDB.pth  --->  [original link](https://github.com/xinntao/ESRGAN)
-     * ESRGAN.pth --->   [original link](https://github.com/xinntao/ESRGAN)
-     * FSSR_DPED.pth --->   [original link](https://github.com/ManuelFritsche/real-world-sr)
-     * FSSR_DPED.pth --->   [original link](https://github.com/ManuelFritsche/real-world-sr)
-     * RealSR_DPED.pth --->   [original link](https://github.com/jixiaozhong/RealSR)
-     * RealSR_JPEG.pth --->   [original link](https://github.com/jixiaozhong/RealSR)
-
 
 Main idea
 ----------
