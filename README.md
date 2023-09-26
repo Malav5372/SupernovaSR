@@ -33,7 +33,7 @@ _______
 
 [<img src="figs/SR1.png" width="390px"/>](https://imgsli.com/NDgzMjU) [<img src="figs/SR2.png" width="390px"/>](https://imgsli.com/MjA5Mjc4) 
 [<img src="figs/SR3.png" width="390px"/>](https://imgsli.com/MjA5NDIw) [<img src="figs/SR4.png" width="390px"/>](https://imgsli.com/MjA5NDM4)
-[<img src="figs/SR5.png" width="390px"/>](https://imgsli.com/MjA5NDQx)
+[<img src="figs/SR5.png" width="390px"/>]()
 ___________
 
 * [Testing code](#testing-code)
