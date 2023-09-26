@@ -1,5 +1,8 @@
 # Supernova SR: Practical Degradation Model for Deep Blind Image Super-Resolution
 
+<img width="784" alt="SupernovaSR" src="https://github.com/Malav5372/SupernovaSR/assets/144440737/7fe24106-609b-4212-84e2-99a0907adac4">
+
+
 ## DESCRIPTION:
 
 I bring to you SupernovaSR, a flagship-grade project conceived during my tenure as a Machine Learning Engineer at Wipro. This project was born out of a pressing challenge within the realm of Single Image Super-Resolution (SISR). Existing methods often grapple with inadequate performance when their assumed degradation models fail to account for the intricate complexities of real-world images.
