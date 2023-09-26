@@ -32,7 +32,7 @@ Training
 _______
 ✨ _**Some visual examples**_: [oldphoto2](https://imgsli.com/MjA5MjY5); [building](https://imgsli.com/MjA5Mjcz); [tiger](https://imgsli.com/MjA5Mjc4); [pattern](https://imgsli.com/MjA5Mjc2); [oldphoto6](https://imgsli.com/MjA5Mzkz); [comic_01](https://imgsli.com/MjA5Mzk5); [comic_03](https://imgsli.com/MjA5NDAx); [comic_04](https://imgsli.com/MjA5NDAz)
 
-[<img src="figs/v1.png" width="390px"/>](https://imgsli.com/NDgzMjU) [<img src="figs/v2.png" width="390px"/>](https://imgsli.com/NDgyNzk) 
+[<img src="figs/SR1.png" width="390px"/>](https://imgsli.com/MjA5MjY5) [<img src="figs/v2.png" width="390px"/>](https://imgsli.com/NDgyNzk) 
 [<img src="figs/v3.png" width="784px"/>](https://imgsli.com/NDgzNDk)
 ___________
 
