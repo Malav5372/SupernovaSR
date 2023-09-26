@@ -3,8 +3,7 @@
 
 Training
 ----------
-1. Put your training high-quality images into `trainsets/trainH` or set `"dataroot_H": "trainsets/trainH"`
-2. Train SupernovaSRNet
+1. Train SupernovaSRNet
     1. Modify [train_SupernovaSR_x4_psnr.json](https://github.com/Malav5372/SupernovaSR/blob/5b994b38f076a63caa72fbeab6f7648619675e88/train_SupernovaSR_x4_psnr.json) e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
     2. Training with `DataParallel`
     ```bash
@@ -14,7 +13,7 @@ Training
     ```bash
     python -m torch.distributed.launch --nproc_per_node=4 --master_port=1234 main_train_psnr.py --opt options/train_SupernovaSR_x4_psnr.json  --dist True
     ```
-3. Train SupernovaSR
+2. Train SupernovaSR
     1. Put SupernovaSRNet model (e.g., '400000_G.pth') into `superresolution/SupernovaSR_x4_gan/models`
     2. Modify [train_SupernovaSR_x4_gan.json](https://github.com/Malav5372/SupernovaSR/blob/0eeebfa36f83119be26c545143aa1ad74f30e536/train_SupernovaSR_x4_gan.json) e.g., `"gpu_ids": [0]`, `"dataloader_batch_size": 4`
     3. Training with `DataParallel`
@@ -25,7 +24,7 @@ Training
     ```bash
     python -m torch.distributed.launch --nproc_per_node=4 --master_port=1234 main_train_gan.py --opt options/train_SupernovaSR_x4_gan.json  --dist True
     ```
-4. Test SupernovaSR model `'xxxxxx_E.pth'` by modified `main_test_SupernovaSR.py`
+3. Test SupernovaSR model `'xxxxxx_E.pth'` by modified `main_test_SupernovaSR.py`
     1. `'xxxxxx_E.pth'` is more stable than `'xxxxxx_G.pth'`
 
 
