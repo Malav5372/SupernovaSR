@@ -101,7 +101,7 @@ Comparison
 
 <img src="figs/Comparison.png" width="790px"/> 
 
-*These no-reference IQA metrics, i.e., NIQE, NRQM and PI, do not always match perceptual visual quality [1] and the IQA metric should be updated with new SISR methods [2]. We further argue that the IQA metric for SISR should also be updated with new image degradation types, which we leave for future work.*
+*These no-reference IQA metrics, i.e., NIQE, NRQM and PI, do not always match perceptual visual quality [1] and the IQA metric should be updated with new SISR methods [2]. I further argue that the IQA metric for SISR should also be updated with new image degradation types, which I leave for future work.*
 
 ```
 [1] "NTIRE 2020 challenge on real-world image super-resolution: Methods and results." CVPRW, 2020.
@@ -152,5 +152,5 @@ Visual results on DPED dataset
 
 <img src="figs/00081.png" width="200px"/> <img src="figs/00081_SupernovaSR.png" width="790px"/>
 
-*Without using any prior information of DPED dataset for training, our SupernovaSR still performs well.*
+*Without using any prior information of DPED dataset for training, SupernovaSR still performs well.*
 
