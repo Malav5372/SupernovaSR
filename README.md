@@ -2,6 +2,8 @@
 
 I bring to you SupernovaSR, a flagship-grade project conceived during my tenure as a Machine Learning Engineer at Adobe. This project was born out of a pressing challenge within the realm of Single Image Super-Resolution (SISR). Existing methods often grapple with inadequate performance when their assumed degradation models fail to account for the intricate complexities of real-world images.
 
+By introducing a novel and practical degradation model, SupernovaSR aims to significantly improve the quality and practicality of deep Super-Resolution techniques, ultimately redefining the landscape of image enhancement and restoration.
+
 Feel free to explore the codebase, experiment with the model, and contribute to the advancement of Single Image Super-Resolution with SupernovaSR.
 
 Training
