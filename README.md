@@ -108,10 +108,6 @@ More visual results on [RealSRSet](testsets/RealSRSet) dataset
 
 <img src="testsets/RealSRSet/dog.png" width="390px"/> <img src="testsets/SupernovaSR/dog_SupernovaSR.png" width="390px"/>
 
-<img src="testsets/RealSRSet/dped_crop00061.png" width="390px"/> <img src="testsets/SupernovaSR/dped_crop00061_SupernovaSR.png" width="390px"/>
-
-<img src="testsets/RealSRSet/chip.png" width="390px"/> <img src="testsets/SupernovaSR/chip_SupernovaSR.png" width="390px"/>
-
 <img src="testsets/RealSRSet/comic1.png" width="390px"/> <img src="testsets/SupernovaSR/comic1_SupernovaSR.png" width="390px"/>
 
 <img src="testsets/RealSRSet/comic3.png" width="390px"/> <img src="testsets/SupernovaSR/comic3_SupernovaSR.png" width="390px"/>
