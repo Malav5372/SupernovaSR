@@ -110,9 +110,7 @@ More visual results on [RealSRSet](testsets/RealSRSet) dataset
 
 <img src="testsets/RealSRSet/comic3.png" width="390px"/> <img src="testsets/SupernovaSR/comic3_SupernovaSR.png" width="390px"/>
 
-<img src="figs/comic_03.png" width="784px"/> 
-
-<img src="figs/comic_03_SupernovaSR.png" width="784px"/>
+<img src="figs/comic_03.png" width="390px"/> <img src="figs/comic_03_SupernovaSR.png" width="390px"/>
 
 
 Visual results on DPED dataset
