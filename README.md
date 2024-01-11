@@ -88,23 +88,6 @@ to handle SISR with different scale factors, JPEG compression deblocking with di
 types to improve the practicability for a certain application.*
 
 
-
-
-Comparison
-----------
-
-
-<img src="figs/Comparison.png" width="790px"/> 
-
-*These no-reference IQA metrics, i.e., NIQE, NRQM and PI, do not always match perceptual visual quality [1] and the IQA metric should be updated with new SISR methods [2]. I further argue that the IQA metric for SISR should also be updated with new image degradation types, which I leave for future work.*
-
-```
-[1] "NTIRE 2020 challenge on real-world image super-resolution: Methods and results." CVPRW, 2020.
-[2] "PIPAL: a large-scale image quality assessment dataset for perceptual image restoration." ECCV, 2020.
-```
-
-
-
 More visual results on [RealSRSet](testsets/RealSRSet) dataset
 ----------
 
