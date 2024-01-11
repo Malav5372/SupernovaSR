@@ -94,9 +94,7 @@ More visual results on [RealSRSet](testsets/RealSRSet) dataset
 
 **Left**: [real images](https://github.com/Malav5372/SupernovaSRNet/tree/main/testsets/RealSRSet) **|** **Right**: [super-resolved images with scale factor 4](https://github.com/Malav5372/SupernovaSRNet/tree/main/testsets/SupernovaSR)
 
-<img src="testsets/RealSRSet/butterfly.png" width="156px"/> <img src="testsets/SupernovaSR/butterfly_SupernovaSR.png" width="624px"/>
-
-<img src="testsets/RealSRSet/oldphoto2.png" width="156px"/> <img src="testsets/SupernovaSR/oldphoto2_SupernovaSR.png" width="624px"/>
+<img src="testsets/RealSRSet/butterfly.png" width="390px"/> <img src="testsets/SupernovaSR/butterfly_SupernovaSR.png" width="390px"/>
 
 <img src="testsets/RealSRSet/oldphoto2.png" width="390px"/> <img src="testsets/SupernovaSR/oldphoto2_SupernovaSR.png" width="390px"/>
 
