@@ -1,6 +1,6 @@
 # Supernova SR: Practical Degradation Model for Deep Blind Image Super-Resolution
 
-I bring to you SupernovaSR, a flagship-grade project conceived during my tenure as a Machine Learning Engineer at Adobe. This project was born out of a pressing challenge within the realm of Single Image Super-Resolution (SISR). Existing methods often grapple with inadequate performance when their assumed degradation models fail to account for the intricate complexities of real-world images.
+I bring to you SupernovaSR. This project was born out of a pressing challenge within the realm of Single Image Super-Resolution (SISR). Existing methods often grapple with inadequate performance when their assumed degradation models fail to account for the intricate complexities of real-world images.
 
 By introducing a novel and practical degradation model, SupernovaSR aims to significantly improve the quality and practicality of deep Super-Resolution techniques, ultimately redefining the landscape of image enhancement and restoration.
 
@@ -36,8 +36,7 @@ Training
 _______
 ✨ _**Some visual examples**_: [oldphoto2](https://imgsli.com/MjA5MjY5); [building](https://imgsli.com/MjA5Mjcz); [tiger](https://imgsli.com/MjA5Mjc4); [pattern](https://imgsli.com/MjA5Mjc2); [oldphoto6](https://imgsli.com/MjA5Mzkz); [comic_01](https://imgsli.com/MjA5Mzk5); [comic_03](https://imgsli.com/MjA5NDAx); [comic_04](https://imgsli.com/MjA5NDAz)
 
-click on these below Images to see the Magic of SupernovaSR!
-it will take you to the image comparison slider.
+Comparing quality:
 
 [<img src="figs/SR1.png" width="390px"/>](https://imgsli.com/NDgzMjU) [<img src="figs/SR2.png" width="390px"/>](https://imgsli.com/MjA5Mjc4) 
 [<img src="figs/SR3.png" width="390px"/>](https://imgsli.com/MjA5NDIw) [<img src="figs/SR4.png" width="390px"/>](https://imgsli.com/MjA5NDM4)
