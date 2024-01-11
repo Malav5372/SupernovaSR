@@ -96,8 +96,6 @@ More visual results on [RealSRSet](testsets/RealSRSet) dataset
 
 <img src="testsets/RealSRSet/butterfly.png" width="390px"/> <img src="testsets/SupernovaSR/butterfly_SupernovaSR.png" width="390px"/>
 
-<img src="testsets/RealSRSet/oldphoto2.png" width="390px"/> <img src="testsets/SupernovaSR/oldphoto2_SupernovaSR.png" width="390px"/>
-
 <img src="testsets/RealSRSet/oldphoto3.png" width="390px"/> <img src="testsets/SupernovaSR/oldphoto3_SupernovaSR.png" width="390px"/>
 
 <img src="testsets/RealSRSet/oldphoto6.png" width="390px"/> <img src="testsets/SupernovaSR/oldphoto6_SupernovaSR.png" width="390px"/>
