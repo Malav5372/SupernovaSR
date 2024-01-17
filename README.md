@@ -62,8 +62,6 @@ Testing code
 Main idea
 ----------
 
-<img src="figs/degradationmodel.png" width="790px"/> 
-
 __Design a new degradation model to synthesize LR images for training:__
 
 * **_1) Make the blur, downsampling and noise more practical_**
