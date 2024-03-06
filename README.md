@@ -106,14 +106,3 @@ More visual results on [RealSRSet](testsets/RealSRSet) dataset
 <img src="figs/comic_03.png" width="390px"/> <img src="figs/comic_03_SupernovaSR.png" width="390px"/>
 
 
-Visual results on DPED dataset
-----------
-
-<img src="figs/00003.png" width="390px"/> <img src="figs/00003_SupernovaSR.png" width="390px"/>
-
-<img src="figs/00080.png" width="390px"/> <img src="figs/00080_SupernovaSR.png" width="390px"/>
-
-<img src="figs/00081.png" width="390px"/> <img src="figs/00081_SupernovaSR.png" width="390px"/>
-
-*Without using any prior information of DPED dataset for training, SupernovaSR still performs well.*
-
