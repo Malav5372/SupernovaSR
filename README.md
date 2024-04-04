@@ -47,7 +47,6 @@ ___________
 * [Main idea](#main-idea)
 * [Comparison](#comparison)
 * [More visual results on RealSRSet dataset](#more-visual-results-on-realsrset-dataset)
-* [Visual results on DPED dataset](#visual-results-on-dped-dataset)
 
 
 Testing code
